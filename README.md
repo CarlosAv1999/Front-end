@@ -1,10 +1,10 @@
-La version optimizada del front se encuentra en la carpeta build.
-Esta version se cre ejecutando el comando npm run build.
-para ejecutar esta version hay que correr los comandos:
-"npm run build" 
-"npm i spa-http-server -g" en la carpeta raiz del proyecto 
-"cd <direccion de la carpeta build>"
-"http-server --push-state" en la carpeta build
+La version optimizada del front se encuentra en la carpeta build.\
+Esta version se cre ejecutando el comando npm run build.\
+para ejecutar esta version hay que correr los comandos:\
+"npm run build" \
+"npm i spa-http-server -g" en la carpeta raiz del proyecto \
+"cd <direccion de la carpeta build>"\
+"http-server --push-state" en la carpeta build\
 
 
 ### `npm start`
